@@ -45,7 +45,7 @@ After you're finished please remove all the comments and instructions!
 
 > First Microverse Project to show the understanding of the tools and best practices I learned about in previous steps.
 
-**"Hello Microverse"** is a...
+**"Hello Microverse"** is a project based on HTML & CSS
 
 <!-- AUTHORS -->
 
