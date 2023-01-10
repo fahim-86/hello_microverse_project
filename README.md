@@ -41,11 +41,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 "Hello Microverse" <a name="about-project"></a>
 
 > First Microverse Project to show the understanding of the tools and best practices I learned about in previous steps.
 
-**[your_project__name]** is a...
+**"Hello Microverse"** is a...
 
 <!-- AUTHORS -->
 
@@ -54,7 +54,7 @@ After you're finished please remove all the comments and instructions!
 👤 **Fahim Morshed**
 
 - GitHub: [@githubhandle](https://github.com/fahim-86)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/fahim-morshed-jat)
 
 <!-- LICENSE -->
 
